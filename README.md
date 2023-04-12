@@ -1,2 +1,2 @@
 # medipool
-Medipool: An ambulance booking Service
+Medipool: An ambulance booking Service.
